@@ -1,0 +1,607 @@
+{
+    "results": [
+        {
+            "native_interest_id": 223035,
+            "interest_name": "Acura",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-04",
+            "post_count": 180
+        },
+        {
+            "native_interest_id": 234247,
+            "interest_name": "Audi",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-04",
+            "post_count": 876
+        },
+        {
+            "native_interest_id": 234257,
+            "interest_name": "BMW",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-04",
+            "post_count": 1388
+        },
+        {
+            "native_interest_id": 251658,
+            "interest_name": "Adele",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-04",
+            "post_count": 2416
+        },
+        {
+            "native_interest_id": 635297,
+            "interest_name": "Dunkin' Donuts",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-04",
+            "post_count": 494
+        },
+        {
+            "native_interest_id": 223035,
+            "interest_name": "Acura",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-05",
+            "post_count": 64
+        },
+        {
+            "native_interest_id": 234247,
+            "interest_name": "Audi",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-05",
+            "post_count": 270
+        },
+        {
+            "native_interest_id": 234257,
+            "interest_name": "BMW",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-05",
+            "post_count": 564
+        },
+        {
+            "native_interest_id": 251658,
+            "interest_name": "Adele",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-05",
+            "post_count": 158
+        },
+        {
+            "native_interest_id": 635297,
+            "interest_name": "Dunkin' Donuts",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-05",
+            "post_count": 16
+        },
+        {
+            "native_interest_id": 223035,
+            "interest_name": "Acura",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-06",
+            "post_count": 36
+        },
+        {
+            "native_interest_id": 234247,
+            "interest_name": "Audi",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-06",
+            "post_count": 170
+        },
+        {
+            "native_interest_id": 234257,
+            "interest_name": "BMW",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-06",
+            "post_count": 628
+        },
+        {
+            "native_interest_id": 251658,
+            "interest_name": "Adele",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-06",
+            "post_count": 828
+        },
+        {
+            "native_interest_id": 635297,
+            "interest_name": "Dunkin' Donuts",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-06",
+            "post_count": 152
+        },
+        {
+            "native_interest_id": 223035,
+            "interest_name": "Acura",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-07",
+            "post_count": 178
+        },
+        {
+            "native_interest_id": 234247,
+            "interest_name": "Audi",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-07",
+            "post_count": 838
+        },
+        {
+            "native_interest_id": 234257,
+            "interest_name": "BMW",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-07",
+            "post_count": 762
+        },
+        {
+            "native_interest_id": 251658,
+            "interest_name": "Adele",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-07",
+            "post_count": 1724
+        },
+        {
+            "native_interest_id": 635297,
+            "interest_name": "Dunkin' Donuts",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-07",
+            "post_count": 460
+        },
+        {
+            "native_interest_id": 223035,
+            "interest_name": "Acura",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-08",
+            "post_count": 286
+        },
+        {
+            "native_interest_id": 234247,
+            "interest_name": "Audi",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-08",
+            "post_count": 916
+        },
+        {
+            "native_interest_id": 234257,
+            "interest_name": "BMW",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-08",
+            "post_count": 1278
+        },
+        {
+            "native_interest_id": 251658,
+            "interest_name": "Adele",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-08",
+            "post_count": 2510
+        },
+        {
+            "native_interest_id": 635297,
+            "interest_name": "Dunkin' Donuts",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-08",
+            "post_count": 526
+        },
+        {
+            "native_interest_id": 223035,
+            "interest_name": "Acura",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-09",
+            "post_count": 266
+        },
+        {
+            "native_interest_id": 234247,
+            "interest_name": "Audi",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-09",
+            "post_count": 886
+        },
+        {
+            "native_interest_id": 234257,
+            "interest_name": "BMW",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-09",
+            "post_count": 1926
+        },
+        {
+            "native_interest_id": 251658,
+            "interest_name": "Adele",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-09",
+            "post_count": 2650
+        },
+        {
+            "native_interest_id": 635297,
+            "interest_name": "Dunkin' Donuts",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-09",
+            "post_count": 830
+        },
+        {
+            "native_interest_id": 223035,
+            "interest_name": "Acura",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-10",
+            "post_count": 200
+        },
+        {
+            "native_interest_id": 234247,
+            "interest_name": "Audi",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-10",
+            "post_count": 798
+        },
+        {
+            "native_interest_id": 234257,
+            "interest_name": "BMW",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-10",
+            "post_count": 2012
+        },
+        {
+            "native_interest_id": 251658,
+            "interest_name": "Adele",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-10",
+            "post_count": 2690
+        },
+        {
+            "native_interest_id": 635297,
+            "interest_name": "Dunkin' Donuts",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-10",
+            "post_count": 304
+        },
+        {
+            "native_interest_id": 223035,
+            "interest_name": "Acura",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-11",
+            "post_count": 230
+        },
+        {
+            "native_interest_id": 234247,
+            "interest_name": "Audi",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-11",
+            "post_count": 962
+        },
+        {
+            "native_interest_id": 234257,
+            "interest_name": "BMW",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-11",
+            "post_count": 1762
+        },
+        {
+            "native_interest_id": 251658,
+            "interest_name": "Adele",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-11",
+            "post_count": 2436
+        },
+        {
+            "native_interest_id": 635297,
+            "interest_name": "Dunkin' Donuts",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-11",
+            "post_count": 724
+        },
+        {
+            "native_interest_id": 223035,
+            "interest_name": "Acura",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-12",
+            "post_count": 182
+        },
+        {
+            "native_interest_id": 234247,
+            "interest_name": "Audi",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-12",
+            "post_count": 872
+        },
+        {
+            "native_interest_id": 234257,
+            "interest_name": "BMW",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-12",
+            "post_count": 1372
+        },
+        {
+            "native_interest_id": 251658,
+            "interest_name": "Adele",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-12",
+            "post_count": 2534
+        },
+        {
+            "native_interest_id": 635297,
+            "interest_name": "Dunkin' Donuts",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-12",
+            "post_count": 632
+        },
+        {
+            "native_interest_id": 223035,
+            "interest_name": "Acura",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-13",
+            "post_count": 202
+        },
+        {
+            "native_interest_id": 234247,
+            "interest_name": "Audi",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-13",
+            "post_count": 572
+        },
+        {
+            "native_interest_id": 234257,
+            "interest_name": "BMW",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-13",
+            "post_count": 1330
+        },
+        {
+            "native_interest_id": 251658,
+            "interest_name": "Adele",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-13",
+            "post_count": 2492
+        },
+        {
+            "native_interest_id": 635297,
+            "interest_name": "Dunkin' Donuts",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-13",
+            "post_count": 410
+        },
+        {
+            "native_interest_id": 223035,
+            "interest_name": "Acura",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-14",
+            "post_count": 180
+        },
+        {
+            "native_interest_id": 234247,
+            "interest_name": "Audi",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-14",
+            "post_count": 666
+        },
+        {
+            "native_interest_id": 234257,
+            "interest_name": "BMW",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-14",
+            "post_count": 1326
+        },
+        {
+            "native_interest_id": 251658,
+            "interest_name": "Adele",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-14",
+            "post_count": 3172
+        },
+        {
+            "native_interest_id": 635297,
+            "interest_name": "Dunkin' Donuts",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-14",
+            "post_count": 396
+        },
+        {
+            "native_interest_id": 223035,
+            "interest_name": "Acura",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-15",
+            "post_count": 302
+        },
+        {
+            "native_interest_id": 234247,
+            "interest_name": "Audi",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-15",
+            "post_count": 726
+        },
+        {
+            "native_interest_id": 234257,
+            "interest_name": "BMW",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-15",
+            "post_count": 1888
+        },
+        {
+            "native_interest_id": 251658,
+            "interest_name": "Adele",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-15",
+            "post_count": 3322
+        },
+        {
+            "native_interest_id": 635297,
+            "interest_name": "Dunkin' Donuts",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-15",
+            "post_count": 432
+        },
+        {
+            "native_interest_id": 223035,
+            "interest_name": "Acura",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-16",
+            "post_count": 206
+        },
+        {
+            "native_interest_id": 234247,
+            "interest_name": "Audi",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-16",
+            "post_count": 778
+        },
+        {
+            "native_interest_id": 234257,
+            "interest_name": "BMW",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-16",
+            "post_count": 1804
+        },
+        {
+            "native_interest_id": 251658,
+            "interest_name": "Adele",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-16",
+            "post_count": 2588
+        },
+        {
+            "native_interest_id": 635297,
+            "interest_name": "Dunkin' Donuts",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-16",
+            "post_count": 818
+        },
+        {
+            "native_interest_id": 223035,
+            "interest_name": "Acura",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-17",
+            "post_count": 328
+        },
+        {
+            "native_interest_id": 234247,
+            "interest_name": "Audi",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-17",
+            "post_count": 1016
+        },
+        {
+            "native_interest_id": 234257,
+            "interest_name": "BMW",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-17",
+            "post_count": 1914
+        },
+        {
+            "native_interest_id": 251658,
+            "interest_name": "Adele",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-17",
+            "post_count": 2612
+        },
+        {
+            "native_interest_id": 635297,
+            "interest_name": "Dunkin' Donuts",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-17",
+            "post_count": 530
+        },
+        {
+            "native_interest_id": 223035,
+            "interest_name": "Acura",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-18",
+            "post_count": 392
+        },
+        {
+            "native_interest_id": 234247,
+            "interest_name": "Audi",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-18",
+            "post_count": 710
+        },
+        {
+            "native_interest_id": 234257,
+            "interest_name": "BMW",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-18",
+            "post_count": 1104
+        },
+        {
+            "native_interest_id": 251658,
+            "interest_name": "Adele",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-18",
+            "post_count": 2594
+        },
+        {
+            "native_interest_id": 635297,
+            "interest_name": "Dunkin' Donuts",
+            "native_dataview_id": 7777,
+            "dataview_name": "GENERAL CONSUMER",
+            "base_date": "2013-07-18",
+            "post_count": 646
+        },
+        {
+            "end": "end"
+        }
+    ]
+}

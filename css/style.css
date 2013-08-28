@@ -1,0 +1,69 @@
+
+#chartWrap {
+  max-width:1200px;
+}
+nav ul {
+    margin:0;
+    margin-left: -1em;
+    padding:0;
+    list-style: none;
+}
+nav ul li{
+    float:left;
+    margin-left:1em;
+}
+th a {
+    cursor:pointer;
+}
+.sentiChart {
+    margin:0;
+    position: relative;
+    width:100%;
+    height: 25px;
+    background: #C8CCCA;
+
+}
+.posSenti {
+    position: absolute;
+    left: 0;
+    top:0;
+    height: 100%;
+    background: #5AAB57;
+}
+
+.negSenti {
+    position: absolute;
+    right: 0;
+    top:0;
+    height: 100%;
+    background: #CC4C31;
+}
+.table th, .table td {
+    padding: 4px 6px 4px 6px;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #999;
+  shape-rendering: crispEdges;
+}
+
+.x.axis path {
+  fill: none;
+  stroke: #999;
+  shape-rendering: crispEdges;
+}
+
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 2px;
+}
+.legend text {
+  font-size: 0.85em;
+}
+.tick text {
+  font-size: 0.75em; 
+  fill:#666;
+}
