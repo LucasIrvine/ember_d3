@@ -1,0 +1,2669 @@
+{
+    "data": {
+        "y": "ArrayList",
+        "v": [
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 30,
+                "name": "Abc demo",
+                "startDate": 1352268000000,
+                "description": "abc",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 3,
+                "competitors": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 373420,
+                        "name": "Little Debbie",
+                        "group": {
+                            "id": 18454,
+                            "name": "Snack Cakes",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 373425,
+                        "name": "Hostess Brand",
+                        "group": {
+                            "id": 18454,
+                            "name": "Snack Cakes",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "creationTimestamp": 1352315434692,
+                "creationUser": "jkdemo@networkedinsights.com",
+                "ownerId": 1153
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 40,
+                "name": "Almay Audience & Messaging Segmentation",
+                "startDate": 1342414800000,
+                "endDate": 1346994000000,
+                "description": "Research to help determine  where consumers see Almay relative to the competition. Audiences will be used to understand consumer trends and generate insights that led to a broader positioning strategy tuned to the consumer’s needs.",
+                "defaultDataView": {
+                    "id": 16849,
+                    "name": "Moms Topics"
+                },
+                "projectStatus": 0,
+                "projectType": 3,
+                "competitors": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 567341,
+                        "name": "Revlon",
+                        "group": {
+                            "id": 19138,
+                            "name": "Almay & Competitors",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 567340,
+                        "name": "Neutrogena",
+                        "group": {
+                            "id": 19138,
+                            "name": "Almay & Competitors",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 567337,
+                        "name": "Clinique",
+                        "group": {
+                            "id": 19138,
+                            "name": "Almay & Competitors",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 567339,
+                        "name": "Physician's Formula",
+                        "group": {
+                            "id": 19138,
+                            "name": "Almay & Competitors",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 567342,
+                        "name": "Cover Girl",
+                        "group": {
+                            "id": 19138,
+                            "name": "Almay & Competitors",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "related": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 567349,
+                        "name": "Kate Hudson",
+                        "group": {
+                            "id": 19139,
+                            "name": "Almay - Misc Interests",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "savedSearches": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 567425,
+                        "name": "Smokey Eyes",
+                        "group": {
+                            "id": 16963,
+                            "name": "Saved Searches for Matt Wulff",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 567426,
+                        "name": "Sensitive Skin",
+                        "group": {
+                            "id": 16963,
+                            "name": "Saved Searches for Matt Wulff",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "creationTimestamp": 1352928551067,
+                "creationUser": "matthew.wulff@networkedinsights.com",
+                "ownerId": 461
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 98,
+                "name": "Audience Activation Demo",
+                "startDate": 1357452000000,
+                "endDate": 1359180000000,
+                "description": "Demo of ability to translate brand audience through interests and attributes. Content development",
+                "defaultDataView": {
+                    "id": 18686,
+                    "name": "Tech Enthusiasts"
+                },
+                "projectStatus": 0,
+                "projectType": 0,
+                "creationTimestamp": 1360190659134,
+                "creationUser": "mwdemo@networkedinsights.com",
+                "ownerId": 1158
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 81,
+                "name": "BBC Demo",
+                "startDate": 1357624800000,
+                "description": "BBC Demo Project",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 0,
+                "creationTimestamp": 1357651762262,
+                "creationUser": "jennifer.pineda@networkedinsights.com",
+                "ownerId": 1147
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 83,
+                "name": "BBC Demo",
+                "startDate": 1354341600000,
+                "description": "BBC Demo",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 3,
+                "creationTimestamp": 1357744538093,
+                "creationUser": "jpdemo@networkedinsights.com",
+                "ownerId": 1156
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 123,
+                "name": "Bicycle",
+                "startDate": 1359698400000,
+                "endDate": 1363064400000,
+                "description": "JoshG project",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 3,
+                "creationTimestamp": 1363173839748,
+                "creationUser": "supportadvanced@email.com",
+                "ownerId": 1163
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 120,
+                "name": "Chris Test Document Store",
+                "startDate": 1362117600000,
+                "endDate": 1364274000000,
+                "description": "description",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 3,
+                "creationTimestamp": 1363140590301,
+                "creationUser": "supportadvanced@email.com",
+                "ownerId": 1163
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 24,
+                "name": "Colgate vs Dove",
+                "startDate": 1349067600000,
+                "endDate": 1351832400000,
+                "description": "Personal Hygiene",
+                "defaultDataView": {
+                    "id": 16849,
+                    "name": "Moms Topics"
+                },
+                "projectStatus": 0,
+                "projectType": 3,
+                "creationTimestamp": 1351867954717,
+                "creationUser": "jennifer.pineda@networkedinsights.com",
+                "ownerId": 1147
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 39,
+                "name": "demo",
+                "startDate": 1352872800000,
+                "description": "abc research",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 3,
+                "competitors": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 311202,
+                        "name": "Oikos",
+                        "group": {
+                            "id": 16998,
+                            "name": "Greek Yogurt",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 311199,
+                        "name": "Fage",
+                        "group": {
+                            "id": 16998,
+                            "name": "Greek Yogurt",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 311200,
+                        "name": "Chobani",
+                        "group": {
+                            "id": 16998,
+                            "name": "Greek Yogurt",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "creationTimestamp": 1352913881347,
+                "creationUser": "jkdemo@networkedinsights.com",
+                "ownerId": 1153
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 56,
+                "name": "demo",
+                "startDate": 1354168800000,
+                "description": "demo research",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 3,
+                "creationTimestamp": 1354204332147,
+                "creationUser": "jkdemo@networkedinsights.com",
+                "ownerId": 1153
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 188,
+                "name": "DEMO DOC DELIVERY CAMPAIGN",
+                "startDate": 1367384400000,
+                "endDate": 1369976400000,
+                "description": "d",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 0,
+                "creationTimestamp": 1369800993651,
+                "creationUser": "supportadvanced@email.com",
+                "ownerId": 1163
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 133,
+                "name": "DJ Test Project",
+                "startDate": 1362117600000,
+                "endDate": 1363669200000,
+                "description": "Test",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 0,
+                "creationTimestamp": 1363360514531,
+                "creationUser": "mwdemo@networkedinsights.com",
+                "ownerId": 1158
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 124,
+                "name": "Doc Delivery Example",
+                "startDate": 1362117600000,
+                "endDate": 1363150800000,
+                "description": "This project will contain important documents between NI and the client, plus other reports and analysis.",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 0,
+                "creationTimestamp": 1363186594406,
+                "creationUser": "mwdemo@networkedinsights.com",
+                "ownerId": 1158
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 134,
+                "name": "Dunkin' Donuts - Breakfast Sandwich Campaign Launch",
+                "startDate": 1362117600000,
+                "endDate": 1363669200000,
+                "description": "Example of how a brand manager would leverage SocialSense Direct to pre-inform a new product launch.",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 0,
+                "competitors": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 223152,
+                        "name": "Burger King",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 635263,
+                        "name": "Caribou Coffee",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 635099,
+                        "name": "Peet's Coffee & Tea",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 635162,
+                        "name": "Seattles Best Coffee",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 234239,
+                        "name": "Arby's",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 234355,
+                        "name": "Krispy Kreme",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 234424,
+                        "name": "McDonald's",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 234467,
+                        "name": "Starbucks",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 635297,
+                        "name": "Dunkin' Donuts",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "related": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 208447,
+                        "name": "Psych",
+                        "group": {
+                            "id": 4453,
+                            "name": "TV (Syndicated)",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "creationTimestamp": 1363719902826,
+                "creationUser": "sean.reckwerdt@networkedinsights.com",
+                "ownerId": 556
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 41,
+                "name": "Duracell \"Never Be Powerless\" Campaign",
+                "startDate": 1339390800000,
+                "description": "Launching \"Never Be Powerless\" ad campaign on July 26th with Jay-Z as the spokesperson.  Campaign will be tracked and optimized in real-time",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 0,
+                "competitors": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 567421,
+                        "name": "Energizer",
+                        "group": {
+                            "id": 19145,
+                            "name": "Duracell Powermat Competitors",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 567420,
+                        "name": "Mophiehose",
+                        "group": {
+                            "id": 19145,
+                            "name": "Duracell Powermat Competitors",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 567417,
+                        "name": "iSound",
+                        "group": {
+                            "id": 19145,
+                            "name": "Duracell Powermat Competitors",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 567416,
+                        "name": "Innergiehose",
+                        "group": {
+                            "id": 19145,
+                            "name": "Duracell Powermat Competitors",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 567414,
+                        "name": "Richard Solo",
+                        "group": {
+                            "id": 19145,
+                            "name": "Duracell Powermat Competitors",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "related": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 214886,
+                        "name": "Jay-Z",
+                        "group": {
+                            "id": 4649,
+                            "name": "Celebrities  (Syndicated)",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "savedSearches": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 567429,
+                        "name": "Battery Drain",
+                        "group": {
+                            "id": 16963,
+                            "name": "Saved Searches for Matt Wulff",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 567427,
+                        "name": "Mario Armstrong",
+                        "group": {
+                            "id": 16963,
+                            "name": "Saved Searches for Matt Wulff",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 567428,
+                        "name": "Battery Life",
+                        "group": {
+                            "id": 16963,
+                            "name": "Saved Searches for Matt Wulff",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "creationTimestamp": 1352928593909,
+                "updateTimestamp": 1352932028712,
+                "creationUser": "matthew.wulff@networkedinsights.com",
+                "updateUser": 1158,
+                "ownerId": 461
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 36,
+                "name": "egg - CPG brand",
+                "startDate": 1352700000000,
+                "description": "test project for Egg",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 3,
+                "creationTimestamp": 1352737375312,
+                "creationUser": "sbdemo@networkedinsights.com",
+                "ownerId": 1148
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 32,
+                "name": "G1 Campaign",
+                "startDate": 1352354400000,
+                "description": "Demo project for Group1",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 3,
+                "creationTimestamp": 1352382459733,
+                "creationUser": "sbdemo@networkedinsights.com",
+                "ownerId": 1148
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 89,
+                "name": "General Mills",
+                "startDate": 1349067600000,
+                "endDate": 1357020000000,
+                "description": "Analysis of General Mills brand and breakfast cereal category",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 3,
+                "competitors": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 606842,
+                        "name": "Post Foods",
+                        "group": {
+                            "id": 19923,
+                            "name": "Saved Searches for Troy Brown",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 606843,
+                        "name": "Quaker Oats",
+                        "group": {
+                            "id": 19923,
+                            "name": "Saved Searches for Troy Brown",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 606841,
+                        "name": "Kellogg",
+                        "group": {
+                            "id": 19923,
+                            "name": "Saved Searches for Troy Brown",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "savedSearches": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 644666,
+                        "name": "Lucky Charms Phrase",
+                        "group": {
+                            "id": 17039,
+                            "name": "Saved Searches for Julie Kearney",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 644653,
+                        "name": "Lucky Charms",
+                        "group": {
+                            "id": 17039,
+                            "name": "Saved Searches for Julie Kearney",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 642578,
+                        "name": "Cheerios and Kix Cereal",
+                        "group": {
+                            "id": 17039,
+                            "name": "Saved Searches for Julie Kearney",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 641990,
+                        "name": "cereal and breakfast bar",
+                        "group": {
+                            "id": 17039,
+                            "name": "Saved Searches for Julie Kearney",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "creationTimestamp": 1358460336360,
+                "updateTimestamp": 1364325774980,
+                "creationUser": "tbdemo@networkedinsights.com",
+                "updateUser": 1146,
+                "ownerId": 1149
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 58,
+                "name": "Goldman Sachs",
+                "startDate": 1325397600000,
+                "endDate": 1356933600000,
+                "description": "Overview of Goldman in 2012",
+                "defaultDataView": {
+                    "id": 18686,
+                    "name": "Tech Enthusiasts"
+                },
+                "projectStatus": 0,
+                "projectType": 0,
+                "competitors": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 234347,
+                        "name": "JPMorgan",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "related": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 312462,
+                        "name": "Super Bowl",
+                        "group": {
+                            "id": 4453,
+                            "name": "TV (Syndicated)",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "savedSearches": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 573041,
+                        "name": "Goldman Sachs with innovators",
+                        "group": {
+                            "id": 20812,
+                            "name": "Saved Searches for Dan Neely (demo)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 573042,
+                        "name": "Goldman Sachs general audience",
+                        "group": {
+                            "id": 20812,
+                            "name": "Saved Searches for Dan Neely (demo)",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "creationTimestamp": 1354651972982,
+                "creationUser": "dndemo@networkedinsights.com",
+                "ownerId": 1155
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 12,
+                "name": "Greek Yogurt",
+                "startDate": 1350968400000,
+                "description": "Yogurt brands",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 3,
+                "competitors": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 311202,
+                        "name": "Oikos",
+                        "group": {
+                            "id": 16998,
+                            "name": "Greek Yogurt",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 311200,
+                        "name": "Chobani",
+                        "group": {
+                            "id": 16998,
+                            "name": "Greek Yogurt",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "creationTimestamp": 1351021337701,
+                "creationUser": "jkdemo@networkedinsights.com",
+                "ownerId": 1153
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 25,
+                "name": "Greek Yogurt Demo",
+                "startDate": 1352095200000,
+                "description": "Greek Yogurt Demo",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 3,
+                "competitors": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 311200,
+                        "name": "Chobani",
+                        "group": {
+                            "id": 16998,
+                            "name": "Greek Yogurt",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 311202,
+                        "name": "Oikos",
+                        "group": {
+                            "id": 16998,
+                            "name": "Greek Yogurt",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "creationTimestamp": 1352124806119,
+                "creationUser": "jkdemo@networkedinsights.com",
+                "ownerId": 1153
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 65,
+                "name": "Holiday Blockbuster films",
+                "startDate": 1347426000000,
+                "endDate": 1355292000000,
+                "description": "Last 90 comparison of all the films released in December 2012.",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 1,
+                "creationTimestamp": 1355340438746,
+                "creationUser": "sean.reckwerdt@networkedinsights.com",
+                "ownerId": 556
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 38,
+                "name": "Ipad mini v nexus 7",
+                "startDate": 1351746000000,
+                "endDate": 1356933600000,
+                "description": "comp",
+                "defaultDataView": {
+                    "id": 16818,
+                    "name": "Consumer Tech Topics"
+                },
+                "projectStatus": 0,
+                "projectType": 3,
+                "creationTimestamp": 1352899950381,
+                "updateTimestamp": 1352900632422,
+                "creationUser": "aphilipnewman@gmail.com",
+                "updateUser": 1189,
+                "ownerId": 1189
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 75,
+                "name": "Jason's Test Project",
+                "startDate": 1355119200000,
+                "endDate": 1355464800000,
+                "description": "tacos & burritos",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 3,
+                "creationTimestamp": 1355521316536,
+                "creationUser": "jpkdemo@networkedinsights.com",
+                "ownerId": 1152
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 71,
+                "name": "Lenovo",
+                "startDate": 1355119200000,
+                "endDate": 1355464800000,
+                "description": "Preliminary research on Lenovo Yoga 13 campaign launch",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 3,
+                "competitors": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 223707,
+                        "name": "HP",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 223618,
+                        "name": "Dell",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 234245,
+                        "name": "Asus",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "creationTimestamp": 1355410108665,
+                "creationUser": "troy.brown@networkedinsights.com",
+                "ownerId": 973
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 68,
+                "name": "Lenovo-Yoga",
+                "startDate": 1355205600000,
+                "endDate": 1355810400000,
+                "description": "Pre-sales research",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 3,
+                "creationTimestamp": 1355349178362,
+                "creationUser": "sbdemo@networkedinsights.com",
+                "ownerId": 1148
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 34,
+                "name": "Mckee brands",
+                "startDate": 1352354400000,
+                "description": "abc",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 3,
+                "competitors": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 311200,
+                        "name": "Chobani",
+                        "group": {
+                            "id": 16998,
+                            "name": "Greek Yogurt",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 311199,
+                        "name": "Fage",
+                        "group": {
+                            "id": 16998,
+                            "name": "Greek Yogurt",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 311202,
+                        "name": "Oikos",
+                        "group": {
+                            "id": 16998,
+                            "name": "Greek Yogurt",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "creationTimestamp": 1352393780684,
+                "creationUser": "jkdemo@networkedinsights.com",
+                "ownerId": 1153
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 80,
+                "name": "McKee Foods - Little Debbie",
+                "startDate": 1349067600000,
+                "endDate": 1357020000000,
+                "description": "Research and analysis of Little Debbie brand and snack category.",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 3,
+                "competitors": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 597809,
+                        "name": "Tastykake",
+                        "group": {
+                            "id": 19923,
+                            "name": "Saved Searches for Troy Brown",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 597808,
+                        "name": "Hostess",
+                        "group": {
+                            "id": 19923,
+                            "name": "Saved Searches for Troy Brown",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "savedSearches": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 597810,
+                        "name": "Snack Category",
+                        "group": {
+                            "id": 19923,
+                            "name": "Saved Searches for Troy Brown",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "creationTimestamp": 1357318040592,
+                "creationUser": "tbdemo@networkedinsights.com",
+                "ownerId": 1149
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 52,
+                "name": "Microsoft Surface",
+                "startDate": 1339995600000,
+                "endDate": 1354255200000,
+                "description": "Microsoft Surface Launch Analysis",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 3,
+                "creationTimestamp": 1354048972304,
+                "creationUser": "sean.reckwerdt@networkedinsights.com",
+                "ownerId": 556
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 190,
+                "name": "My Campaign",
+                "startDate": 1370062800000,
+                "endDate": 1388469600000,
+                "description": "This is an example of how a Campaign can be configured in SocialSense",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 3,
+                "competitors": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 234439,
+                        "name": "Swiffer",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 223610,
+                        "name": "Clorox",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 234242,
+                        "name": "Arm & Hammer",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 234312,
+                        "name": "Febreze",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 234323,
+                        "name": "Glade",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 234398,
+                        "name": "Lysol",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "related": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 234427,
+                        "name": "Tide",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "creationTimestamp": 1370450146221,
+                "updateTimestamp": 1370450362566,
+                "creationUser": "nicole.komassa@networkedinsights.com",
+                "updateUser": 1146,
+                "ownerId": 1146
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 55,
+                "name": "Papa John's Pizza Delivery Analysis",
+                "startDate": 1351746000000,
+                "endDate": 1388469600000,
+                "description": "Analysis of Papa John's brand to inform new campaign launch",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 0,
+                "competitors": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 234534,
+                        "name": "Pizza Hut",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 223633,
+                        "name": "Domino's",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "related": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 214946,
+                        "name": "Peyton Manning",
+                        "group": {
+                            "id": 4649,
+                            "name": "Celebrities  (Syndicated)",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "savedSearches": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 570658,
+                        "name": "Peyton Manning and Papa John's",
+                        "group": {
+                            "id": 19923,
+                            "name": "Saved Searches for Troy Brown",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "creationTimestamp": 1354137208132,
+                "updateTimestamp": 1370889754124,
+                "creationUser": "tbdemo@networkedinsights.com",
+                "updateUser": 1146,
+                "ownerId": 1149
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 50,
+                "name": "Post",
+                "startDate": 1351746000000,
+                "description": "General search",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 3,
+                "creationTimestamp": 1353965892591,
+                "creationUser": "sbdemo@networkedinsights.com",
+                "ownerId": 1148
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 42,
+                "name": "Samsung - iPhone 5 Launch",
+                "startDate": 1347426000000,
+                "endDate": 1348808400000,
+                "description": "The iPhone 5 will be announced on Sept. 12, 2012. SocialSense will be leveraged to track reaction to the announcement thus enabling the rapid development of advertising campaigns aligned with consumer reactions.",
+                "defaultDataView": {
+                    "id": 16818,
+                    "name": "Consumer Tech Topics"
+                },
+                "projectStatus": 0,
+                "projectType": 2,
+                "competitors": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 567275,
+                        "name": "Droid RAZR MAXX",
+                        "group": {
+                            "id": 19136,
+                            "name": "Samsung Competitive Devices",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 567279,
+                        "name": "iPhone",
+                        "group": {
+                            "id": 19136,
+                            "name": "Samsung Competitive Devices",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "related": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 567319,
+                        "name": "iPhone 5 Connector",
+                        "group": {
+                            "id": 19137,
+                            "name": "Samsung GSIII & iPhone5 Features",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 567318,
+                        "name": "iPhone 5 Camera",
+                        "group": {
+                            "id": 19137,
+                            "name": "Samsung GSIII & iPhone5 Features",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 567317,
+                        "name": "iPhone 5 HeadPhones",
+                        "group": {
+                            "id": 19137,
+                            "name": "Samsung GSIII & iPhone5 Features",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 567312,
+                        "name": "iPhone 5 Battery",
+                        "group": {
+                            "id": 19137,
+                            "name": "Samsung GSIII & iPhone5 Features",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 567307,
+                        "name": "iPhone 5 4G LTE",
+                        "group": {
+                            "id": 19137,
+                            "name": "Samsung GSIII & iPhone5 Features",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 567331,
+                        "name": "iPhone 5 Form Factor",
+                        "group": {
+                            "id": 19137,
+                            "name": "Samsung GSIII & iPhone5 Features",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 567332,
+                        "name": "iPhone 5 Processor",
+                        "group": {
+                            "id": 19137,
+                            "name": "Samsung GSIII & iPhone5 Features",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "savedSearches": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 567431,
+                        "name": "iPhone Commercials",
+                        "group": {
+                            "id": 16963,
+                            "name": "Saved Searches for Matt Wulff",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 567430,
+                        "name": "GSIII & iPhone5",
+                        "group": {
+                            "id": 16963,
+                            "name": "Saved Searches for Matt Wulff",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "creationTimestamp": 1352928652553,
+                "updateTimestamp": 1353964501596,
+                "creationUser": "matthew.wulff@networkedinsights.com",
+                "updateUser": 1158,
+                "ownerId": 461
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 87,
+                "name": "Schwan's Pie Project",
+                "startDate": 1351746000000,
+                "endDate": 1358229600000,
+                "description": "Frozen Pies",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 3,
+                "competitors": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 606144,
+                        "name": "Marie Callenders Pie",
+                        "group": {
+                            "id": 24628,
+                            "name": "Frozen Pie",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 606142,
+                        "name": "Banquet Pie",
+                        "group": {
+                            "id": 24628,
+                            "name": "Frozen Pie",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 606145,
+                        "name": "Sara Lee Pie",
+                        "group": {
+                            "id": 24628,
+                            "name": "Frozen Pie",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "creationTimestamp": 1358281673362,
+                "creationUser": "julia.kearney@networkedinsights.com",
+                "ownerId": 1140
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 86,
+                "name": "Schwan's Pizza Project",
+                "startDate": 1351746000000,
+                "endDate": 1358229600000,
+                "description": "Frozen Pizza",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 3,
+                "competitors": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 606092,
+                        "name": "Kashi Pizza",
+                        "group": {
+                            "id": 24610,
+                            "name": "Frozen Pizza",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 606094,
+                        "name": "Tombstone Pizza",
+                        "group": {
+                            "id": 24610,
+                            "name": "Frozen Pizza",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 606091,
+                        "name": "Digiorno Pizza",
+                        "group": {
+                            "id": 24610,
+                            "name": "Frozen Pizza",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "creationTimestamp": 1358278011725,
+                "creationUser": "julia.kearney@networkedinsights.com",
+                "ownerId": 1140
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 106,
+                "name": "Screenshots",
+                "startDate": 1357020000000,
+                "endDate": 1361512800000,
+                "description": "Screenshots for sales",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 4,
+                "creationTimestamp": 1361912880162,
+                "creationUser": "tbdemo@networkedinsights.com",
+                "ownerId": 1149
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 76,
+                "name": "Showtime",
+                "startDate": 1346475600000,
+                "endDate": 1369976400000,
+                "description": "Illustrative example of how TV brand managers use SocialSense to keep their finger on the viewer's pulse.",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 3,
+                "competitors": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 216436,
+                        "name": "Treme",
+                        "group": {
+                            "id": 4453,
+                            "name": "TV (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 216446,
+                        "name": "Veep",
+                        "group": {
+                            "id": 4453,
+                            "name": "TV (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 218839,
+                        "name": "24/7",
+                        "group": {
+                            "id": 4453,
+                            "name": "TV (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 218875,
+                        "name": "Enlightened",
+                        "group": {
+                            "id": 4453,
+                            "name": "TV (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 246514,
+                        "name": "Elementary",
+                        "group": {
+                            "id": 4453,
+                            "name": "TV (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 219827,
+                        "name": "The Newsroom",
+                        "group": {
+                            "id": 4453,
+                            "name": "TV (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 208407,
+                        "name": "Boardwalk Empire",
+                        "group": {
+                            "id": 4453,
+                            "name": "TV (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 208442,
+                        "name": "Once Upon a Time",
+                        "group": {
+                            "id": 4453,
+                            "name": "TV (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 208483,
+                        "name": "The Walking Dead",
+                        "group": {
+                            "id": 4453,
+                            "name": "TV (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 216103,
+                        "name": "Breaking Bad",
+                        "group": {
+                            "id": 4453,
+                            "name": "TV (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 216191,
+                        "name": "Curb Your Enthusiasm",
+                        "group": {
+                            "id": 4453,
+                            "name": "TV (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 216302,
+                        "name": "Eastbound & Down",
+                        "group": {
+                            "id": 4453,
+                            "name": "TV (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 216350,
+                        "name": "Funny or Die Presents",
+                        "group": {
+                            "id": 4453,
+                            "name": "TV (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 216353,
+                        "name": "Game of Thrones",
+                        "group": {
+                            "id": 4453,
+                            "name": "TV (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 216408,
+                        "name": "The Ricky Gervais Show",
+                        "group": {
+                            "id": 4453,
+                            "name": "TV (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 216437,
+                        "name": "True Blood",
+                        "group": {
+                            "id": 4453,
+                            "name": "TV (Syndicated)",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "related": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 593548,
+                        "name": "Claire Danes",
+                        "group": {
+                            "id": 22987,
+                            "name": "Showtime Actors",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 593537,
+                        "name": "Jim Rome",
+                        "group": {
+                            "id": 22987,
+                            "name": "Showtime Actors",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 234393,
+                        "name": "Vitaminwater",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 593626,
+                        "name": "Michael C. Hall",
+                        "group": {
+                            "id": 22987,
+                            "name": "Showtime Actors",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "savedSearches": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 593703,
+                        "name": "Hot Stove",
+                        "group": {
+                            "id": 23143,
+                            "name": "Saved Searches for Sean Rekwerdt (demo)",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "creationTimestamp": 1355961166892,
+                "updateTimestamp": 1355962961701,
+                "creationUser": "sean.reckwerdt@networkedinsights.com",
+                "updateUser": 556,
+                "ownerId": 556
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 54,
+                "name": "Smuckers Demo",
+                "startDate": 1354082400000,
+                "description": "research for smuckers strawberry jelly",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 3,
+                "creationTimestamp": 1354127166266,
+                "creationUser": "jkdemo@networkedinsights.com",
+                "ownerId": 1153
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 63,
+                "name": "Sony",
+                "startDate": 1349067600000,
+                "endDate": 1355119200000,
+                "description": "Sony proposal research",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 1,
+                "creationTimestamp": 1355159346578,
+                "creationUser": "jennifer.pineda@networkedinsights.com",
+                "ownerId": 1147
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 73,
+                "name": "Starbucks Celebrity Spokesperson",
+                "startDate": 1354341600000,
+                "description": "Research to discover the right spokesperson/people for Starbucks target audiences.",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 3,
+                "creationTimestamp": 1355429464841,
+                "creationUser": "mwdemo@networkedinsights.com",
+                "ownerId": 1158
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 53,
+                "name": "Starbucks Holiday Campaigns (SAMPLE)",
+                "startDate": 1351746000000,
+                "endDate": 1357106400000,
+                "description": "An example of SocialSense's ability to inform marketing decisions throughout the lifecycle of an average campaign.  Specifically, the Starbucks \"red cup\" and holiday drink campaigns.",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 0,
+                "competitors": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 234424,
+                        "name": "McDonald's",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 234355,
+                        "name": "Krispy Kreme",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "related": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 262212,
+                        "name": "Skyfall",
+                        "group": {
+                            "id": 6796,
+                            "name": "Movies (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 252994,
+                        "name": "Jack White",
+                        "group": {
+                            "id": 9217,
+                            "name": "Musicians (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 214909,
+                        "name": "Lady Gaga",
+                        "group": {
+                            "id": 4649,
+                            "name": "Celebrities  (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 225054,
+                        "name": "Zac Brown Band",
+                        "group": {
+                            "id": 9217,
+                            "name": "Musicians (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 224811,
+                        "name": "Maroon 5",
+                        "group": {
+                            "id": 9217,
+                            "name": "Musicians (Syndicated)",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "savedSearches": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 568871,
+                        "name": "Starbucks Holiday Drinks",
+                        "group": {
+                            "id": 16963,
+                            "name": "Saved Searches for Matt Wulff",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 568870,
+                        "name": "Starbucks Red Cup",
+                        "group": {
+                            "id": 16963,
+                            "name": "Saved Searches for Matt Wulff",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 568872,
+                        "name": "McDonald's Holiday Drinks",
+                        "group": {
+                            "id": 16963,
+                            "name": "Saved Searches for Matt Wulff",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 568873,
+                        "name": "McDonald's CBO",
+                        "group": {
+                            "id": 16963,
+                            "name": "Saved Searches for Matt Wulff",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "creationTimestamp": 1354052526578,
+                "updateTimestamp": 1354056211785,
+                "creationUser": "matthew.wulff@networkedinsights.com",
+                "updateUser": 1158,
+                "ownerId": 461
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 49,
+                "name": "Starbucks Sample Campaign (Black Friday)",
+                "startDate": 1335848400000,
+                "endDate": 1349067600000,
+                "description": "An example of SocialSense's ability to inform marketing decisions throughout the lifecycle of an average campaign.",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 0,
+                "competitors": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 234355,
+                        "name": "Krispy Kreme",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 234424,
+                        "name": "McDonald's",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "related": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 251760,
+                        "name": "Lady Gaga",
+                        "group": {
+                            "id": 9217,
+                            "name": "Musicians (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 270760,
+                        "name": "Joe Scarborough",
+                        "group": {
+                            "id": 4649,
+                            "name": "Celebrities  (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 208490,
+                        "name": "White Collar",
+                        "group": {
+                            "id": 4453,
+                            "name": "TV (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 223044,
+                        "name": "Apple",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 262212,
+                        "name": "Skyfall",
+                        "group": {
+                            "id": 6796,
+                            "name": "Movies (Syndicated)",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "savedSearches": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 568340,
+                        "name": "Mom's talking about Mobile Payments",
+                        "group": {
+                            "id": 19923,
+                            "name": "Saved Searches for Troy Brown",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 568341,
+                        "name": "Millennials talking about Holiday Beverages",
+                        "group": {
+                            "id": 19923,
+                            "name": "Saved Searches for Troy Brown",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "creationTimestamp": 1353957473823,
+                "updateTimestamp": 1353964419734,
+                "creationUser": "tbdemo@networkedinsights.com",
+                "updateUser": 1149,
+                "ownerId": 1149
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 45,
+                "name": "Strategic GPS Situation Analysis",
+                "startDate": 1349067600000,
+                "endDate": 1351659600000,
+                "description": "Understand GPS' fate",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 3,
+                "competitors": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 567529,
+                        "name": "Garmin",
+                        "group": {
+                            "id": 17560,
+                            "name": "Saved Searches for Dan Cropsey",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 567530,
+                        "name": "Magellan",
+                        "group": {
+                            "id": 17560,
+                            "name": "Saved Searches for Dan Cropsey",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 567531,
+                        "name": "Tom Tom",
+                        "group": {
+                            "id": 17560,
+                            "name": "Saved Searches for Dan Cropsey",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "related": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 234325,
+                        "name": "Google",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 567306,
+                        "name": "iPhone 5",
+                        "group": {
+                            "id": 19137,
+                            "name": "Samsung GSIII & iPhone5 Features",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 567277,
+                        "name": "Galaxy S III",
+                        "group": {
+                            "id": 19136,
+                            "name": "Samsung Competitive Devices",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "savedSearches": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 567452,
+                        "name": "GPS",
+                        "group": {
+                            "id": 17560,
+                            "name": "Saved Searches for Dan Cropsey",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 567528,
+                        "name": "Google Maps",
+                        "group": {
+                            "id": 17560,
+                            "name": "Saved Searches for Dan Cropsey",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "creationTimestamp": 1353004454806,
+                "creationUser": "dcdemo@networkedinsights.com",
+                "ownerId": 1150
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 88,
+                "name": "Strictly Come Dancing",
+                "startDate": 1346475600000,
+                "endDate": 1358229600000,
+                "description": "Strictly Come Dancing research for the BBC.",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 3,
+                "competitors": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 216202,
+                        "name": "Dancing with the Stars",
+                        "group": {
+                            "id": 4453,
+                            "name": "TV (Syndicated)",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "related": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 593548,
+                        "name": "Claire Danes",
+                        "group": {
+                            "id": 22987,
+                            "name": "Showtime Actors",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 224775,
+                        "name": "Kimberly Cole",
+                        "group": {
+                            "id": 4649,
+                            "name": "Celebrities  (Syndicated)",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "savedSearches": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 606161,
+                        "name": "Girls Aloud",
+                        "group": {
+                            "id": 23143,
+                            "name": "Saved Searches for Sean Rekwerdt (demo)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 606162,
+                        "name": "Kimberly Walsh",
+                        "group": {
+                            "id": 23143,
+                            "name": "Saved Searches for Sean Rekwerdt (demo)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 606804,
+                        "name": "Artem - SCD",
+                        "group": {
+                            "id": 23143,
+                            "name": "Saved Searches for Sean Rekwerdt (demo)",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "creationTimestamp": 1358311396962,
+                "creationUser": "sean.reckwerdt@networkedinsights.com",
+                "ownerId": 556
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 22,
+                "name": "SuperBowl Campaign",
+                "startDate": 1359698400000,
+                "endDate": 1359957600000,
+                "description": "Miller Lite Super Bowl Campaign - Puppies and Babies",
+                "defaultDataView": {
+                    "id": 16464,
+                    "name": "Beer Drinkers"
+                },
+                "projectStatus": 0,
+                "projectType": 0,
+                "competitors": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 223051,
+                        "name": "Budweiser",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 234285,
+                        "name": "Coors",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 234289,
+                        "name": "Corona",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 234335,
+                        "name": "Heineken",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 234442,
+                        "name": "Miller",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "related": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 270437,
+                        "name": "Super Bowl",
+                        "group": {
+                            "id": 10426,
+                            "name": "Events & Sponsorships (Syndicated)",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "savedSearches": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 312271,
+                        "name": "Things Girls Like",
+                        "group": {
+                            "id": 17560,
+                            "name": "Saved Searches for Dan Cropsey",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "creationTimestamp": 1351625295460,
+                "creationUser": "dcdemo@networkedinsights.com",
+                "ownerId": 1150
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 84,
+                "name": "Test",
+                "startDate": 1354341600000,
+                "description": "New event",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 1,
+                "creationTimestamp": 1357752818719,
+                "creationUser": "jpdemo@networkedinsights.com",
+                "ownerId": 1156
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 5,
+                "name": "Test 1",
+                "startDate": 1350882000000,
+                "description": "test test",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 3,
+                "creationTimestamp": 1350967865637,
+                "creationUser": "jkdemo@networkedinsights.com",
+                "ownerId": 1153
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 9,
+                "name": "Test 2",
+                "startDate": 1350968400000,
+                "description": "test 2",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 3,
+                "competitors": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 311200,
+                        "name": "Chobani",
+                        "group": {
+                            "id": 16998,
+                            "name": "Greek Yogurt",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 311202,
+                        "name": "Oikos",
+                        "group": {
+                            "id": 16998,
+                            "name": "Greek Yogurt",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "creationTimestamp": 1351017095131,
+                "creationUser": "jkdemo@networkedinsights.com",
+                "ownerId": 1153
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 10,
+                "name": "Test 3",
+                "startDate": 1350968400000,
+                "description": "test 3",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 3,
+                "competitors": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 311200,
+                        "name": "Chobani",
+                        "group": {
+                            "id": 16998,
+                            "name": "Greek Yogurt",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 311202,
+                        "name": "Oikos",
+                        "group": {
+                            "id": 16998,
+                            "name": "Greek Yogurt",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "creationTimestamp": 1351018488587,
+                "creationUser": "jkdemo@networkedinsights.com",
+                "ownerId": 1153
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 46,
+                "name": "The Next Big Cleaner",
+                "startDate": 1351746000000,
+                "description": "wrgergergaerf",
+                "defaultDataView": {
+                    "id": 16818,
+                    "name": "Consumer Tech Topics"
+                },
+                "projectStatus": 0,
+                "projectType": 0,
+                "competitors": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 234312,
+                        "name": "Febreze",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 223610,
+                        "name": "Clorox",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "creationTimestamp": 1353363455200,
+                "creationUser": "matthew.wulff@networkedinsights.com",
+                "ownerId": 461
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 62,
+                "name": "T-Mobile",
+                "startDate": 1349067600000,
+                "description": "TMobile Demo Project",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 3,
+                "related": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 223044,
+                        "name": "Apple",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 234452,
+                        "name": "Motorola",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 234255,
+                        "name": "BlackBerry",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 567307,
+                        "name": "iPhone 5 4G LTE",
+                        "group": {
+                            "id": 19137,
+                            "name": "Samsung GSIII & iPhone5 Features",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 234492,
+                        "name": "Samsung",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "creationTimestamp": 1355156881941,
+                "creationUser": "jennifer.pineda@networkedinsights.com",
+                "ownerId": 1147
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 7,
+                "name": "TomTom",
+                "startDate": 1350968400000,
+                "description": "TomTom Research",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 3,
+                "competitors": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 311203,
+                        "name": "Magellan",
+                        "group": {
+                            "id": 16999,
+                            "name": "GPS Devices",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 311210,
+                        "name": "DeLorme",
+                        "group": {
+                            "id": 16999,
+                            "name": "GPS Devices",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 311204,
+                        "name": "Garmin",
+                        "group": {
+                            "id": 16999,
+                            "name": "GPS Devices",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "related": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 311205,
+                        "name": "Google Maps Driving",
+                        "group": {
+                            "id": 16999,
+                            "name": "GPS Devices",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "creationTimestamp": 1351014447767,
+                "updateTimestamp": 1351015485166,
+                "creationUser": "jennifer.pineda@networkedinsights.com",
+                "updateUser": 1147,
+                "ownerId": 1147
+            },
+            {
+                "_": "com.ni.api.projects.model.Project",
+                "id": 59,
+                "name": "True Value",
+                "startDate": 1351746000000,
+                "endDate": 1354341600000,
+                "description": "Analysis of True Value social performance",
+                "defaultDataView": {
+                    "id": 7777,
+                    "name": "General Consumer"
+                },
+                "projectStatus": 0,
+                "projectType": 0,
+                "competitors": [
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 234391,
+                        "name": "Lowe's",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 577090,
+                        "name": "Ace Hardware",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 577087,
+                        "name": "True Value",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    },
+                    {
+                        "_": "com.ni.tools.model.topic.Topic",
+                        "id": 223656,
+                        "name": "Home Depot",
+                        "group": {
+                            "id": 4636,
+                            "name": "Brands (Syndicated)",
+                            "userDefault": false
+                        }
+                    }
+                ],
+                "creationTimestamp": 1354905346318,
+                "creationUser": "troy.brown@networkedinsights.com",
+                "ownerId": 973
+            }
+        ]
+    }
+}
